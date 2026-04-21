@@ -2,12 +2,12 @@
 
 **Description**: This project is a Git control practice to learn how to create repositories, manage versions, and work with GitHub.
 
-## 🛠 Technologies
+## ⚡️ Technologies
 -Git
 -GitHub
 -terminal
 
-## 🚀 Installation
+## 💾 Installation
 1. Clone the repository: git clone https://github.com/DCdiegocortes/sprint-0.git 
 2. Navigate into the project folder
 
